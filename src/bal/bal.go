@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 	"log"
-	"$GOPATH/payment02/src/util"
+	"payment03/src/util"
 	"strconv"
 
 	"github.com/hyperledger/fabric/core/chaincode/shim"
