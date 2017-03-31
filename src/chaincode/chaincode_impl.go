@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 	"log"
-	"$GOPATH/payment02/src/util"
-	"$GOPATH/payment02/src/wrapper"
+	"payment03/src/util"
+	"payment03/src/wrapper"
 
 	"github.com/hyperledger/fabric/core/chaincode/shim"
 )
